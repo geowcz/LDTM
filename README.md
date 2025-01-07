@@ -1,6 +1,8 @@
 # LDTM
 Large Drive Time Matrix in the USA
 
+![Alt text](https://geowcz.github.io/images/JTG_Figure_low_res.jpg)
+
 [User Guide](https://drive.google.com/file/d/1NACL982nyXbbTdYNl_GonUUMwdsELNUm/view?usp=share_link)
 
 [Data](https://drive.google.com/file/d/1G8ctgtIyT7B8ocy501R5EHpz532ZYfMh/view?usp=share_link)
