@@ -1,0 +1,5 @@
+path = r"D:\Code\HSABook\Chapter2\Large_OD_Data\ZCTA_Test.gdb\RdNetwork_2018_Florida\PriSecRd_ND"
+cost = "Time"
+accost = ['Time', 'Miles']
+restrict = ['']
+hierarchy = ""
